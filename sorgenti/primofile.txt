@@ -1,0 +1,12 @@
+scrivere una funzione chiamata somma che riceve in input due numeri interi e
+produce in output la somma dei due
+
+funzione somma (numero1, numero2)
+     //calcolo risultato
+     risultato= numero1 + numero2
+     //restuisco il risultato
+     restituisci risultato
+
+fine
+
+legenda preceduto da // commento
