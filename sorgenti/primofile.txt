@@ -8,3 +8,33 @@ funzione somma (numero1, numero2)
 
 fine
 
+
+funzionemaggiore(numero1, numero2)
+//verifico quale numero è più grande
+   se numero1 > numero2
+allora
+   risultato = numero1
+altrimenti
+   risultato=numero2 
+end  
+//restuisco il risultato
+restituisci risultato
+
+
+
+
+funzione controllo(numero1, numero2)
+// condizione
+se numero 1 = numero2
+//restituico risultato 1
+restituisci "ugule"
+se numero 1 diverso da numero2 
+//restituisco il risultato 2
+restituisci "diversi"
+fine
+
+
+
+
+
+
